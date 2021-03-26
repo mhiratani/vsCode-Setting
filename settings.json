@@ -1,0 +1,36 @@
+{
+    "files.autoGuessEncoding": true,
+    "workbench.editor.enablePreview": false,
+    "editor.renderWhitespace": "all",
+    "workbench.colorCustomizations": {
+    },
+    "editor.mouseWheelScrollSensitivity": 4,
+    "workbench.editor.showTabs": true,
+    "git.ignoreLegacyWarning": true,
+    "glassit.alpha": 235,
+    "workbench.startupEditor": "newUntitledFile",
+    "code-eol.color": "#0000fd",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "C_Cpp.updateChannel": "Insiders",
+    "diffEditor.ignoreTrimWhitespace": false,
+    //"editor.fontFamily": "rounded-x-mplus-2p-medium",
+    "editor.fontFamily": "Consolas, メイリオ,'Courier New', monospace",
+    "[json]": {
+    
+    },
+    "gitlens.views.repositories.files.layout": "list",
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.codeLens.enabled": false,
+    "gitlens.statusBar.format": "${author},${date},${message}",
+    "window.zoomLevel": 0,
+    "workbench.sideBar.location": "left",
+    "C_Cpp.intelliSenseEngine": "Default",
+    "C_Cpp.intelliSenseCacheSize": 10240,
+    "C_Cpp.inactiveRegionOpacity": 0.55,
+    "C_Cpp.inactiveRegionForegroundColor": "#000000",
+    "C_Cpp.inactiveRegionBackgroundColor": "#d2eefd",
+    "workbench.preferredDarkColorTheme": "Sakura",
+    "workbench.colorTheme": "Sakura",
+    "workbench.activityBar.visible": false,
+    "editor.largeFileOptimizations": false
+}
