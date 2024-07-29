@@ -272,10 +272,6 @@
         "command": "-workbench.action.reopenClosedEditor"
     },
     {
-        "key": "ctrl+shift+t",
-        "command": "workbench.action.terminal.focus"
-    },
-    {
         "key": "ctrl+alt+x",
         "command": "glassit.increase"
     },
@@ -412,10 +408,6 @@
         "when": "inKeybindings && keybindingFocus"
     },
     {
-        "key": "ctrl+i",
-        "command": "workbench.action.focusActiveEditorGroup"
-    },
-    {
         "key": "ctrl+alt+left",
         "command": "-workbench.action.moveEditorToPreviousGroup"
     },
@@ -477,6 +469,15 @@
     {
         "key": "ctrl+shift+tab",
         "command": "workbench.action.focusNextGroup"
+    },
+    {
+        "key": "ctrl+shift+t",
+        "command": "workbench.action.reopenClosedEditor"
+    },
+    {
+        "key": "ctrl+g",
+        "command": "git-graph.view"
+    },
     {
         "key": "ctrl+shift+s",
         "command": "git.stageSelectedRanges",
