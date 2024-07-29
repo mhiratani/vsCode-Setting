@@ -477,5 +477,18 @@
     {
         "key": "ctrl+shift+tab",
         "command": "workbench.action.focusNextGroup"
+    {
+        "key": "ctrl+shift+s",
+        "command": "git.stageSelectedRanges",
+        "when": "isInDiffEditor && !operationInProgress"
+    },
+    {
+        "key": "ctrl+shift+s",
+        "command": "workbench.action.files.saveAs",
+        "when": "!isInDiffEditor"
+    },
+    {
+        "key": "ctrl+shift+s",
+        "command": "-workbench.action.files.saveAs"
     }
 ]
